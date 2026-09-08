@@ -1,0 +1,55 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstats
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstats
+
+# Compressed files
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Data files (runtime generated)
+*.txt
+!README.md
+
+# Log files
+*.log
